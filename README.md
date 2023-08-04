@@ -7,8 +7,8 @@
 - Certifique-se de ter o Python instalado em seu sistema. Caso não tenha, você pode fazer o download e instalar a partir do site oficial: https://www.python.org/.
 
 - Instale a biblioteca Pandas executando o seguinte comando em seu terminal:
-  `  pip install pandas`
+  `pip install pandas`
 
 - Execute o seguinte comando no terminal para gerar o sitemap.xml:
-  ` python generate-sitemap.py`
+  `python generate-sitemap.py`
 - O arquivo "sitemap.xml" será gerado na raiz do repositório, contendo as URLs presentes na planilha.xlsx, ou se preferir no arquivo generate-sitemap.py na linha 42 vc pode alterar o nome do arquivo.
